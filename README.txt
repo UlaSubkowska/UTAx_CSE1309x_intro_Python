@@ -1,0 +1,1 @@
+The repository contain some of exercise and assignment from Introduction to Programming Using Python UTAx: CSE 1309x from edx webside. The course from University of Texas at Arlington.
